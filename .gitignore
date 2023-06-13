@@ -2,7 +2,9 @@
 .idea
 venv
 /media
-pycache/
-*/pycache/
-*/*pycache/
+__pycache__/
+*/__pycache__/
+*/*__pycache__/
+GitHub.txt
 db.sqlite3
+venv
